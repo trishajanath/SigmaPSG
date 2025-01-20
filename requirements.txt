@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+motor
+pydantic
+email-validator
+passlib[bcrypt]
+pyjwt
+python-jose
+python-multipart
+slowapi
+fastapi-csrf-protect
